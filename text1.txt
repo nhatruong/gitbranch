@@ -1,3 +1,7 @@
 test1
 test1
+
 third line while on master branch
+
+test1
+
